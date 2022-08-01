@@ -1,0 +1,25 @@
+{
+  "name": "for_dataapp_competition_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.143.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qazwsxedc121/for_dataapp_competition_page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qazwsxedc121/for_dataapp_competition_page/issues"
+  },
+  "homepage": "https://github.com/qazwsxedc121/for_dataapp_competition_page#readme"
+}
